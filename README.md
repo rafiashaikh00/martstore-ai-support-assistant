@@ -59,18 +59,25 @@ Key Features
 - Bounded actions: the assistant is designed for lookup and ticket preparation; it does not independently cancel, change, or refund orders.
 Application Screenshots
 The screenshots below are stored in the repository’s image/ directory. Make sure the directory and filenames match these paths exactly; GitHub paths are case-sensitive.
-Dashboard
+## 📸 Application Screenshots
 
-Home — Chat Interface
+### 1. Dashboard
+![Dashboard](images/dashboard.png)
 
-Policy Question Answering — RAG
+### 2. Home — Chat Interface
+![Home](images/home.png)
 
-Order Lookup — Tool Calling
+### 3. Order Lookup
+![Order Lookup](images/order.png)
 
-Support Ticket — Human Approval
+### 4. Policy RAG
+![Policy RAG](images/poilicy.png)
 
-Support Ticket — Rejected
+### 5. Support Ticket — Human Approval
+![Ticket Approval](images/ticket.png)
 
+### 6. Human-in-the-Loop — Ticket Rejected
+![Ticket Rejected](images/ticket_human_loop_reject.png)
 How It Works
 Main workflow
 Customer message
