@@ -1,0 +1,33 @@
+martStore Shipping Policy
+
+1. Standard Shipping
+
+Standard shipping usually takes 3–5 business days after order processing is complete.
+
+2. Express Shipping
+
+Express shipping usually takes 1–2 business days after dispatch.
+
+3. Order Processing
+
+Orders generally require 1–2 business days for processing before dispatch.
+
+4. Order Tracking
+
+Tracking information becomes available after an order has been dispatched.
+
+5. Delayed Deliveries
+
+Delivery dates are estimates and are not guaranteed. If an order exceeds its estimated delivery window, the customer may contact support for an investigation.
+
+6. Delayed Order Refunds
+
+A delayed shipment does not automatically qualify for a refund. Refund eligibility must be checked according to the refund policy and the order's actual status.
+
+7. Missing Tracking Information
+
+If tracking information is unavailable after dispatch, the customer should contact support and provide their order ID.
+
+8. Required Information
+
+Customers should provide their order ID when reporting shipping problems so the support assistant can retrieve the correct order record.

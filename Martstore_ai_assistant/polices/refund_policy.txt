@@ -1,0 +1,31 @@
+# martStore Refund Policy
+
+## 1. Refund Eligibility
+Refund eligibility depends on the order status, delivery date, product condition and applicable return policy.
+
+## 2. Delivered Orders
+A delivered order may qualify for a refund if the return request meets the applicable eligibility conditions.
+
+## 3. Orders in Processing
+Orders that are still processing are not automatically eligible for a standard return refund. The assistant should check whether cancellation is available under the order-change policy.
+
+## 4. Shipped Orders
+Orders that have been shipped require a status and policy review before any refund decision. A shipment cannot be treated as cancelled merely because the customer requests a refund.
+
+## 5. Delayed Shipments
+A delayed shipment does not automatically qualify for a refund. Support must investigate the delivery issue and apply the relevant policies.
+
+## 6. Refund Processing Time
+Once a refund is approved, martStore processes it within 5–7 business days. The payment provider may require additional time before the funds appear in the customer's account.
+
+## 7. Refund Status
+The assistant must check the actual database record before claiming that a refund has been issued or completed.
+
+## 8. Refund Decisions
+The assistant may explain eligibility based on verified order information and company rules. It must not invent order details, guarantee approval or claim that money has been returned without confirmation.
+
+## 9. Exceptional Cases
+Cases involving damaged products, incorrect items or policy exceptions should be referred to support when further investigation is required.
+
+## 10. Required Information
+Customers should provide their order ID so the assistant can retrieve the correct order record and evaluate the request.

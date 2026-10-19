@@ -1,0 +1,31 @@
+# martStore Order Change Policy
+
+## 1. Orders in Processing
+Orders with processing status may be eligible for cancellation or address modification. The assistant must verify the order status before proceeding.
+
+## 2. Orders That Have Shipped
+Orders with shipped status cannot be directly modified or cancelled through the normal order-change workflow. The assistant should explain the restriction and offer support when appropriate.
+
+## 3. Delivered Orders
+Delivered orders cannot be modified through the normal order-change workflow. Customers with delivery or product problems should be guided to the relevant return, refund or support process.
+
+## 4. Order Cancellation
+Before processing a cancellation request, the assistant must retrieve the order and check its current status. A cancellation request must not be treated as successful until the database confirms the change.
+
+## 5. Address Modification
+An address change may be considered while an order is processing. The new address must be provided and validated before the update can proceed.
+
+## 6. Customer Confirmation
+Before changing an order, the assistant must show the proposed change and obtain explicit confirmation from the customer.
+
+## 7. Final Status Verification
+Immediately before saving a change, the system must verify that the order is still eligible. If its status has changed, the update must be stopped and reviewed again.
+
+## 8. Invalid Requests
+A missing order ID, invalid proposed value or ineligible order status must prevent the update.
+
+## 9. Database Integrity
+The assistant must not invent order records or claim that a modification succeeded unless the database confirms the update.
+
+## 10. Support Escalation
+If a requested change is not permitted, the assistant should explain why and offer to prepare a support ticket when appropriate. Support tickets requiring human approval must not be created before approval is received.
