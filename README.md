@@ -71,7 +71,7 @@ The screenshots below are stored in the repository’s image/ directory. Make su
 ![Order Lookup](images/order.png)
 
 ### 4. Policy RAG
-![Policy RAG](images/poilicy.png)
+![Policy RAG](images/policy.png)
 
 ### 5. Support Ticket — Human Approval
 ![Ticket Approval](images/ticket.png)
